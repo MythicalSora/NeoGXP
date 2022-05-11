@@ -1,3 +1,6 @@
+.kra
+
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/dotnetcore,csharp
 # Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore,csharp
@@ -402,10 +405,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-### DotnetCore ###
-# .NET Core build folders
-bin/
-obj/
 
 # Common node modules locations
 /node_modules
